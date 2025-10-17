@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javaapplication32","c":"JogoInverterPalavras","l":"JogoInverterPalavras()","u":"%3Cinit%3E()"},{"p":"javaapplication32","c":"JogoInverterPalavras","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
